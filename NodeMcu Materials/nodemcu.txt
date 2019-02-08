@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head><title>My Node Mcu Project </title></head>
+<body>
+The Buttons Are :-
+<br>
+<a href=\"/MOVE = UP\"\" align="center"><button> UP </button></a>
+<br>
+<a href=\"/MOVE = DOWN\"\"><button> DOWN</button></a>
+<a href=\"/MOVE = LEFT\"\"><button> LEFT</button></a>
+<a href=\"/MOVE = RIGHT\"\"><button> RIGHT</button></a>
+<a href=\"/MOVE = STOP\"\"><button> STOP</button></a>
+
+</body>
+</html>
